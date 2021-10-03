@@ -14,7 +14,8 @@
       
       <guid>http://example.org/posts/my-first-post/</guid>
       <description>这是我的第一篇博客
-欢迎大家和我一起讨论编程</description>
+在配置GitHub和Hugo的过程中，我跟着视频教程，在配置ananke主题的时候，通过cmd没有达到视频中呈现的数据，后来发现是因为没有将文件夹移入themes中。其他方面的话，都跟着视频一步步完成了。
+现在已经配置好了Hugo博客并上传到GitHub了，之后我会慢慢学习GitHub的一些知识，欢迎大家一起来和我探讨。</description>
     </item>
     
   </channel>
